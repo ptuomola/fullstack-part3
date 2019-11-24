@@ -1,7 +1,7 @@
-POST https://pacific-sierra-70739.herokuapp.com/api/persons
+POST http://localhost:3001/api/persons
 Content-Type: application/json
 
 {
-    "name": "Petri Tuomola", 
-    "number": "123123123"
+    "name": "Petri Mik  ael Tuomola", 
+    "number": "1234567"
 }
